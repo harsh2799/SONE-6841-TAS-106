@@ -10,7 +10,7 @@ In this comprehensive analysis, I explore the profound and revolutionary change 
 The focus lies on highlighting the utmost significance of engaging users at an early stage in the developmental process,
 juxtaposing conventional practices that involve concealing development activities until project completion with modern approaches that prioritize active collaboration with end-users right from the initiation phase.
 
-## **Repository Structure**
+## **Report Content Involves**
 
 '1.Literature_Review: An in-depth review of existing academic literature and theories relevant to team organization and project management.'
 '2.Case_Studies: Analysis of real-world examples where team organization strategies have been effectively implemented.'  
